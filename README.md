@@ -50,5 +50,3 @@ yourself, then you'll get a short token, copy and paste it in your console.*
 
 That's it! go to your Google Drive directory (the one you set as `directoryId` in your setting file)
 and check if you have a new backup file called `backup_dd_mm_yyyy.zip` :)
-
-test
